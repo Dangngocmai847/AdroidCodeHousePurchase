@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603277586323",
+    "project_id": "housepurchase-8903f",
+    "storage_bucket": "housepurchase-8903f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603277586323:android:7802bed17cc0dccd330266",
+        "android_client_info": {
+          "package_name": "com.example.housepurchase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRaa6rmDA1Jqhw-TBuGbcxKsrjqdnj7t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
